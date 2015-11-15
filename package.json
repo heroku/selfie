@@ -1,0 +1,27 @@
+{
+  "name": "selfie",
+  "version": "1.0.0",
+  "description": "A sample app for the Heroku code challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heroku/selfie.git"
+  },
+  "keywords": [
+    "heroku",
+    "node",
+    "sweatshirt"
+  ],
+  "author": "Josh W Lewis <josh.w.lewis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heroku/selfie/issues"
+  },
+  "homepage": "https://github.com/heroku/selfie#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
